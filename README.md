@@ -11,6 +11,8 @@
   <h1> Hello 👋 I am Marvin C. Abrasaldo</h1>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitmccoyabrasaldo&label=Profile%20views&color=0e75b6&style=flat" alt="gitmccoyabrasaldo" /> </p>
+
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [mccoyabrasaldo@gmail.com](mailto:mccoyabrasaldo@gmail.com)
 * 🧠  I'm learning more about Web Development
