@@ -76,7 +76,3 @@
   </div>
 
 
-
-
-[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PaoGon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-                    
