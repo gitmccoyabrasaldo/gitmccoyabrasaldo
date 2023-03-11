@@ -51,10 +51,9 @@
 
 * Development Tools
   * <div>
-      <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" width="50" height=50/>
+      
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height=50/>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50" height=50/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png?20211017091311" width="50" height=50/>
+     
   </div>
 
 * Databases
