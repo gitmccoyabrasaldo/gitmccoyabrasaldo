@@ -51,7 +51,8 @@
 
 * Development Tools
   * <div>
-      
+  
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height=50/>
      
   </div>
