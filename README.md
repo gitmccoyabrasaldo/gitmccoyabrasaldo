@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47sfttrsnb5w14pglqb0ux0h871loor2vhlc1ul7v0&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media3.giphy.com/media/oXnN2TNSgfJQI/giphy.gif?cid=ecf05e47beib7dbpw74abi6edlawskojaua0t3dbdhfanpmq&rid=giphy.gif&ct=g" width="300"/>
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
