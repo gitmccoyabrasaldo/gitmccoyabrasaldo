@@ -1,10 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/oXnN2TNSgfJQI/giphy.gif?cid=ecf05e47beib7dbpw74abi6edlawskojaua0t3dbdhfanpmq&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media.tenor.com/sKeStT9EI58AAAAM/cat-glasses.gif" width="300"/>
+  
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/marvin-abrasaldo-180646202/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/">
+    <a href="https://www.instagram.com/ig_abra/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
