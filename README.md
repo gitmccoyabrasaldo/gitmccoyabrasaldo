@@ -58,7 +58,6 @@
 
 * Databases
   * <div>
-    <p>Relational Detabases</p>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height=50/>
     </div>
@@ -69,7 +68,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50" height=50/>
   </div>
 
-* <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"> Linux
+* Mobile Development
   * <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height=50/>
   </div>
