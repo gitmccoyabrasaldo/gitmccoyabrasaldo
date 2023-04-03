@@ -68,6 +68,7 @@
 
 * Web Servers
    <div>
+      <img src="https://www.svgrepo.com/show/354575/xampp.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50" height=50/>
   </div>
 
